@@ -2,6 +2,7 @@
 tags:
   - aws
   - AMI
+  - blog
 ---
 
 >You can share an AMI with specific AWS accounts without making the AMI public. All you need are the AWS account IDs.
