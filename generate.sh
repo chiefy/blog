@@ -4,7 +4,7 @@ from obsidian_to_hugo import ObsidianToHugo
 
 def filter_file(file_contents: str, file_path: str) -> bool:
     fc = yaml.safe_load_all(file_contents)
-    print(dir(fc))
+    
     if True:
         return True # copy file
     else:
