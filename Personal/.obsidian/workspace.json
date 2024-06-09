@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5b4cefb3e57011d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18ab5bacaafa75ab",
+  "active": "c5b4cefb3e57011d",
   "lastOpenFiles": [
     "Blog Posts",
     "Blog Posts/Tagging EC2 AMIs and Cross-Account Sharing.md",

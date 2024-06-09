@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-import yaml
+import sys
+import ruamel.yaml
 from obsidian_to_hugo import ObsidianToHugo
 
+yaml = ruamel.yaml.YAML(typ='safe')
+
 def filter_file(file_contents: str, file_path: str) -> bool:
-    fc = yaml.safe_load_all(file_contents)
-    
+    fc = enumerate(yaml.load(file_contents))
+    yaml.dump(fc, sys.stdout)
     if True:
         return True # copy file
     else:
