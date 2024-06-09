@@ -1,6 +1,6 @@
 {
   "blog_tag": "blog",
-  "blog_dir": "content",
+  "blog_dir": "content/blog",
   "static_dir": "static",
   "site_dir": "/Users/chief/Work/blog"
 }

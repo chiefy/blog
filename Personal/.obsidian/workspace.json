@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md"
+                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "18ab5bacaafa75ab",
   "lastOpenFiles": [
     "blogs",
-    "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
+    "Tagging EC2 AMIs and Cross-Account Sharing.md",
     "Welcome.md"
   ]
 }
