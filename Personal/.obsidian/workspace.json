@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog Posts/Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5b4cefb3e57011d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Posts/Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog Posts/Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog Posts/Tagging EC2 AMIs and Cross-Account Sharing.md"
+                "file": "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md"
               }
             }
           }
@@ -154,13 +143,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "hugo-publish:hugo sync": false
     }
   },
-  "active": "c5b4cefb3e57011d",
+  "active": "18ab5bacaafa75ab",
   "lastOpenFiles": [
-    "Blog Posts",
-    "Blog Posts/Tagging EC2 AMIs and Cross-Account Sharing.md",
+    "blogs",
+    "blogs/Tagging EC2 AMIs and Cross-Account Sharing.md",
     "Welcome.md"
   ]
 }
