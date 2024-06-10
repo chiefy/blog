@@ -4,6 +4,8 @@ tags:
   - AMI
   - blog
 ---
+Let's paint a picture: 
+You manage a vast array of AWS accounts across many different OUs and environments. Your team has spent a lot of time coming up with an excellent CI/CD solution to pump out hardened AMIs. Here's some 'gotchas I have ran into recently surrounding this topic.
 
 >You can share an AMI with specific AWS accounts without making the AMI public. All you need are the AWS account IDs.
 
