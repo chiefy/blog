@@ -3,6 +3,10 @@ tags:
   - aws
   - AMI
   - blog
+  - SCP
+  - CI/CD
+  - platform
+  - tagging
 ---
 *Let's paint a picture:*
 
