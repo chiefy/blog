@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82842bb7b7edb381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md",
+                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagging EC2 AMIs and Cross-Account Sharing.md"
+                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "18ab5bacaafa75ab",
+  "active": "82842bb7b7edb381",
   "lastOpenFiles": [
-    "blogs",
     "Tagging EC2 AMIs and Cross-Account Sharing.md",
+    "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
+    "blogs",
     "Welcome.md"
   ]
 }
