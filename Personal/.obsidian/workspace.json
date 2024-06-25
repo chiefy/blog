@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
+                "file": "2024-06-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
+                "file": "2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
+                "file": "2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md"
+                "file": "2024-06-25.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "82842bb7b7edb381",
   "lastOpenFiles": [
-    "Tagging EC2 AMIs and Cross-Account Sharing.md",
     "Build your own streaming service with Raspberry Pi(s), MPD, Navidrome and Snapcast.md",
+    "2024-06-25.md",
+    "Tagging EC2 AMIs and Cross-Account Sharing.md",
     "blogs",
     "Welcome.md"
   ]
